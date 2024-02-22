@@ -1,52 +1,60 @@
 # Image Acqusition using Web Camera
 ## Aim
  
-To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
-i) Write the frame as JPG 
-ii) Display the video 
-iii) Display the video by resizing the window
-iv) Rotate and display the video
+#### To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
+##### i) Write the frame as JPG 
+##### ii) Display the video 
+##### iii) Display the video by resizing the window
+##### iv) Rotate and display the video
 
-## Software Used
-Anaconda - Python 3.7
+## Software 
+
+### Anaconda - Python 3.7
+
 ## Algorithm
+
 ### Step 1:
-<br>
+
+
 
 ### Step 2:
-<br>
+
+
 
 ### Step 3:
-<br>
+
+
 
 ### Step 4:
-<br>
+
+
 
 ### Step 5:
-<br>
+
+
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+# Developed By:
+# Register No:
 
-## i) Write the frame as JPG file
-
-
-
-
-## ii) Display the video
+# i) Write the frame as JPG file
 
 
 
 
-## iii) Display the video by resizing the window
+# ii) Display the video
+
+
+
+
+# iii) Display the video by resizing the window
 
 
 
 
 
-## iv) Rotate and display the video
+# iv) Rotate and display the video
 
 
 
