@@ -69,22 +69,35 @@
 
 ### i) Write the frame as JPG image
 </br>
+
+![image](https://github.com/PSriVarshan/Image_Acqusition-_using_Web_Camera/assets/114944059/a28440d8-9167-4fc2-9355-92fa8fb3f512)
+
 </br>
 
 
 ### ii) Display the video
 </br>
+
+![image](https://github.com/PSriVarshan/Image_Acqusition-_using_Web_Camera/assets/114944059/1156044e-5939-4941-8889-bfd4d48d6015)
+
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
+
+![image](https://github.com/PSriVarshan/Image_Acqusition-_using_Web_Camera/assets/114944059/e21bb44c-7aba-4cc1-b8fe-f3ae63f36d82)
+
+
 </br>
 
 
 
 ### iv) Rotate and display the video
 </br>
+
+![image](https://github.com/PSriVarshan/Image_Acqusition-_using_Web_Camera/assets/114944059/7baf375c-560d-4804-8fa7-1a80617893b7)
+
 </br>
 
 
